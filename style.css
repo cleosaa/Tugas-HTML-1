@@ -1,0 +1,120 @@
+.all{
+    background-image:url(./Image/bg.jpg);
+    background-size: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-position: auto;
+}
+
+.bodytext{
+    margin-top: 280px;
+    text-align: center;
+    justify-content: center;
+    font-family: "Reem Kufi Fun", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.main_menu {
+    font-family: "Reem Kufi Fun", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    color: #420F30;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.beranda {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: #420F30;
+}
+
+.tentang {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: #420F30;
+}
+
+.login {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 7px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: #420F30;
+    border-style: solid;
+    border-color: #420F30;
+    border-radius: 13px;
+    border-width: 3px;
+    width: 70px;
+    height: 30px;
+    border-spacing: 0;
+}
+
+.kontak {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: #420F30;
+}
+
+.faq {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: #420F30;
+}
+
+.menubutton {
+    max-width: 60px;
+    max-height: 60px;
+    margin-left: 10px;
+    margin-right: 40px;
+    list-style-type: none;
+    float: right;
+}
+
+.menikmati_senja {
+    text-align: center;
+    font-size: 115px;
+    line-height: 0px;
+    color:#420F30;
+    margin-top: -18px;
+}
+
+.ngopi {
+    text-align: center;
+    font-size: 25px;
+    line-height: 30px;
+    color: #420F30;
+}
+
+.daftar {
+    background-color: #420F30;
+    border: nonne;
+    color: #ffffff;
+    padding: 10px 35px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
